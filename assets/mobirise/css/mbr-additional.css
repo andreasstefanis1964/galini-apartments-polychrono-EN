@@ -2284,6 +2284,18 @@ strong {
   color: #212529;
   text-align: center;
 }
+#custom-html-q {
+  /* Type valid CSS here */
+}
+#custom-html-q div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-q p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-uAVTbHpLRq {
   padding-top: 45px;
   padding-bottom: 45px;
