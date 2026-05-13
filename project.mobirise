@@ -50,10 +50,10 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "hyjh5zs2tn",
+    "mbrsiteDomain": "taboi0wiio",
     "imageResize": true,
     "usedWebp": true,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -83,7 +83,10 @@
       "currency": "USD"
     },
     "site_lang": "en",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "global_header_custom": "<!-- Primary Meta Tags -->\n<title>Galini apartments in Polychrono Chalkidiki</title>\n<meta name=\"title\" content=\"Galini apartments in Polychrono Chalkidiki\" />\n<meta name=\"description\" content=\"Just a few steps away from the crystal-clear waters of Polychrono, Galini Apartments offers a relaxed and authentic summer experience in the heart of Halkidiki. Combining comfort, simplicity, and a privileged seaside location, the apartments are designed for guests who want to fully enjoy the beauty of the Greek coast at their own pace.\" />\n\n<!-- Open Graph / Facebook -->\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:url\" content=\"https://galini-apartments-polichrono.com/\" />\n<meta property=\"og:title\" content=\"Galini apartments in Polychrono Chalkidiki\" />\n<meta property=\"og:description\" content=\"Just a few steps away from the crystal-clear waters of Polychrono, Galini Apartments offers a relaxed and authentic summer experience in the heart of Halkidiki. Combining comfort, simplicity, and a privileged seaside location, the apartments are designed for guests who want to fully enjoy the beauty of the Greek coast at their own pace.\" />\n<meta property=\"og:image\" content=\"https://metatags.io/images/meta-tags.png\" />\n\n<!-- X (Twitter) -->\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<meta property=\"twitter:url\" content=\"https://galini-apartments-polichrono.com/\" />\n<meta property=\"twitter:title\" content=\"Galini apartments in Polychrono Chalkidiki\" />\n<meta property=\"twitter:description\" content=\"Just a few steps away from the crystal-clear waters of Polychrono, Galini Apartments offers a relaxed and authentic summer experience in the heart of Halkidiki. Combining comfort, simplicity, and a privileged seaside location, the apartments are designed for guests who want to fully enjoy the beauty of the Greek coast at their own pace.\" />\n<meta property=\"twitter:image\" content=\"https://metatags.io/images/meta-tags.png\" />"
   },
   "pages": {
     "index.html": {
